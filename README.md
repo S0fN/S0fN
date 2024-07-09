@@ -8,7 +8,7 @@ I am a CSE student at Pusan National University. I am interested in data and how
 
 - 📌 Working with Python, PyTorch, Pandas and NumPy
 - ❗ Exploring LLMs, NLP, ANN, as well their integration into software and science
-- ❗ Excited about in Tech Events, Meetups and Challanges
+- ❗ Excited about Tech Events, Meetups and Challanges
 - 💬 Curious? Just [ask](https://github.com/S0fN/S0fN/issues/)!
 
 
