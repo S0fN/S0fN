@@ -1,7 +1,3 @@
-# Hello! I am Sofi 👋
-
-I am a CSE student at Pusan National University. I am interested in software engineering and how to leverage data using ML and Deep Learning!
-
 - 📌 Working with JavaScript, Python, PyTorch, Pandas, and NumPy
 - ❗ Exploring LLMs, AI Agents and their integration into software
 - ❗ Excited about tech events, meetups, and challenges
