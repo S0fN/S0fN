@@ -13,11 +13,8 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width="70" height="20" style="display:inline">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="70" height="20" style="display:inline">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="70" height="20" style="display:inline">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="80" height="20" style="display:inline">
 </span>
 
-## Connecting!🌟
-If you want to connect or just talk, feel free to reach out to me :) 
 I also like to network and share with others! I have an Instagram account where I post about computer science, ML/AI, tech, and other tips that are helpful for computer science students. If you are interested, you can check it out on, <a href="https://www.instagram.com/bomu__so/" target="_blank">Instagram</a>.
 
 <span>
